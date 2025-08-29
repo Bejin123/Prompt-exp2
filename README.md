@@ -21,21 +21,8 @@ Tone & Style – Should the messaging be motivational, scientific, or storytelli
 Desired Action – What measurable changes are expected (awareness, eco-friendly habits, community participation)?
 
 ### 🔹 Step 2: Campaign Plan (Tabular Format)
-Component	Details
-Objective	Raise awareness and inspire climate-friendly actions among the youth.
-Target Audience	Urban and semi-urban youth (16–30 years), students & early professionals.
-Cultural Factors	High social media engagement, peer influence, collective activism mindset.
-Key Messages	1. “Climate change starts with us.”
-2. “Protect today, live tomorrow.”
-3. “Small actions = big impact.”
-Strategies	- Social media challenges (#ActForTomorrow)
-- Storytelling videos of local climate heroes
-- Campus eco-clubs and green events
-- Collaboration with eco-friendly brands.
-Communication Channels	Instagram, YouTube, TikTok (short videos), College events, Online petitions.
-Metrics for Success	- 20% increase in eco-club participation.
-- 10,000+ online pledges within 3 months.
-- 15% reduction in single-use plastic usage in campuses.
+<img width="917" height="646" alt="image" src="https://github.com/user-attachments/assets/5711fd85-2ebd-4dba-b86c-602e0cc523ac" />
+
 ### 🔹 Step 3: Insights
 
 Preceding questions ensured that the campaign fits the audience, culture, and communication style.
