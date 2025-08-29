@@ -1,4 +1,6 @@
 # Prompt-exp3
+### Name: Bejin B
+### Reg no: 212222230021
 ## Developing a Climate Change Awareness Campaign - Context questions on audience type, cultural factors, and communication channels guide a more relevant campaign plan--preceding
 
 ## 📑 Case Study: Developing a Climate Change Awareness Campaign
